@@ -120,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "content-web"
+    }
+  },
+  "defaultProject": "content-web",
+  "cli": {
+    "analytics": "5b17b075-2dc4-4e02-9123-a0f56c6ddabd"
+  }
 }
